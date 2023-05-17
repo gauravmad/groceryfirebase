@@ -65,7 +65,7 @@ def home(request):
         'message': message
     }
     
-    return render(request, "home.html", context)
+    return render(request, "index.html", context)
 
 
 def LogoutPage(request):
