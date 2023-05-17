@@ -1,10 +1,18 @@
 {
-    "apiKey": "AIzaSyAR892vMc8_vLmXgLrjxM31VzyJBNUbiAY",
-    "authDomain": "grocery-43557.firebaseapp.com",
-    "databaseURL": "https://grocery-43557-default-rtdb.asia-southeast1.firebasedatabase.app",
-    "projectId": "grocery-43557",
-    "storageBucket": "grocery-43557.appspot.com",
-    "messagingSenderId": "749047107595",
-    "appId": "1:749047107595:web:38c4685a5bc1fe8659770e",
-    "measurementId": "G-FP5D71ZBEE"
+  "apiKey": "AIzaSyAR892vMc8_vLmXgLrjxM31VzyJBNUbiAY",
+  "authDomain": "grocery-43557.firebaseapp.com",
+  "databaseURL": "https://grocery-43557-default-rtdb.asia-southeast1.firebasedatabase.app",
+  "projectId": "grocery-43557",
+  "storageBucket": "grocery-43557.appspot.com",
+  "messagingSenderId": "749047107595",
+  "appId": "1:749047107595:web:38c4685a5bc1fe8659770e",
+  "measurementId": "G-FP5D71ZBEE",
+  "hosting": {
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
 }
